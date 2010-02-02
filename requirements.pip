@@ -1,0 +1,6 @@
+ipython==0.10
+python-dateutil==1.4.1
+python-twitter==0.6
+simplejson==2.0.9
+-e bzr+http://andrewprice.me.uk/bzr/twyt/@147#egg=twyt-0.9.2-py2.6-dev_r147
+wsgiref==0.1.2
